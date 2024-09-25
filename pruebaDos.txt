@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 segunda prueba modificada con detalles para el equipo de trabajo.
+=======
+>>>>>>> parent of 06247 (segunda prueba modificada)
