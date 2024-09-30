@@ -2,3 +2,4 @@
 segunda prueba modificada con detalles para el equipo de trabajo.
 =======
 >>>>>>> parent of 06247 (segunda prueba modificada)
+Las pruebas realizadas sobre el programa detectaron ciertas fallas relacionadas al loggin impidiendo llevar a cabo sus funciones principales.
