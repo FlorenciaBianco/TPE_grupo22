@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+este archivo ha sido modificado
+=======
+prueba tres sobre testing
+>>>>>>> 3ae53632c38f77810d91bdbe157686a49814f85f
