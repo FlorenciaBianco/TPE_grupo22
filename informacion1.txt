@@ -1,1 +1,4 @@
 Este archivo contiene datos personales del jefe de grupo.
+
+Nombre: Florencia Bianco
+Email: florencia@gmail.com
